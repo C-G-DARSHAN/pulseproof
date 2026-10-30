@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+.env.*
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Video files
+*.mp4
+*.mov
+*.avi
+
+# Temporary files
+uploads/
+temp/
+
+# macOS
+.DS_Store
